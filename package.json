@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "express": "^4.21.2",
-    "socks": "^2.8.4",
+    "socks": "^2.8.10",
     "webtorrent": "^3.0.21",
     "ws": "^8.18.0"
   },
